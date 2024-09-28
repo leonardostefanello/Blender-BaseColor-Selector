@@ -6,4 +6,4 @@ Select all objects with the same Base Color texture file
 ~ Location -> **3D Viewport Side Bar Export Tab** (View3D > Sidebar > BaseColor Selector).
 
 ## Downloads
-[![Latest Release](https://badgen.net/badge/Latest%20Release/1.0.0/green?icon=github)](https://github.com/leonardostefanello/Blender-BaseColor-Selector/releases/tag/1.0.0)
+[![Latest Release](https://badgen.net/badge/Latest%20Release/1.0.1/green?icon=github)](https://github.com/leonardostefanello/Blender-BaseColor-Selector/releases/tag/1.0.1)
